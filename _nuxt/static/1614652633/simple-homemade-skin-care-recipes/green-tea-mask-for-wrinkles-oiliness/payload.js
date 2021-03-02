@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/simple-homemade-skin-care-recipes/green-tea-mask-for-wrinkles-oiliness", {data:[{}],fetch:[],mutations:[]});

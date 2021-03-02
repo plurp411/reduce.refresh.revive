@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/simple-homemade-skin-care-recipes/skin-brightening-acne-wash-for-mild-severe-acne-darkened-skin", {data:[{}],fetch:[],mutations:[]});

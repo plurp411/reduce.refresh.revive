@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/simple-healthy-lifestyle-tips/relaxing-with-cucumbers", {data:[{}],fetch:[],mutations:[]});

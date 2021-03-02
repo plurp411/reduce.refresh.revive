@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/simple-homemade-skin-care-recipes/green-tea-body-scrub-for-exfoliation-energy", {data:[{}],fetch:[],mutations:[]});

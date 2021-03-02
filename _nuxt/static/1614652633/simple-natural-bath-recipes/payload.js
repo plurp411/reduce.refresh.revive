@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/simple-natural-bath-recipes", {data:[{}],fetch:[],mutations:[]});

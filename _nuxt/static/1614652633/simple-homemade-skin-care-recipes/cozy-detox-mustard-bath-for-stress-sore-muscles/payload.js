@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/simple-homemade-skin-care-recipes/cozy-detox-mustard-bath-for-stress-sore-muscles", {data:[{}],fetch:[],mutations:[]});

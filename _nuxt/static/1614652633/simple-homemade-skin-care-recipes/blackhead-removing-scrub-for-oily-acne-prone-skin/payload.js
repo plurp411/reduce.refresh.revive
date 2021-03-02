@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/simple-homemade-skin-care-recipes/blackhead-removing-scrub-for-oily-acne-prone-skin", {data:[{}],fetch:[],mutations:[]});

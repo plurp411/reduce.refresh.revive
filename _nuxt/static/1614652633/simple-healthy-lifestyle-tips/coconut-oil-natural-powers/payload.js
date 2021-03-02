@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/simple-healthy-lifestyle-tips/coconut-oil-natural-powers", {data:[{}],fetch:[],mutations:[]});

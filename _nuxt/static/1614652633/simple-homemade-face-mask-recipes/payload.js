@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/simple-homemade-face-mask-recipes", {data:[{}],fetch:[],mutations:[]});
