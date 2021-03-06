@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/simple-homemade-skin-care-recipes/essential-oils-mask-for-curing-mild-to-severe-acne", {data:[{}],fetch:[],mutations:[]});

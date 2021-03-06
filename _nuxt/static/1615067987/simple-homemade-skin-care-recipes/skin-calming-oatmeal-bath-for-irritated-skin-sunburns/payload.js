@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/simple-homemade-skin-care-recipes/skin-calming-oatmeal-bath-for-irritated-skin-sunburns", {data:[{}],fetch:[],mutations:[]});

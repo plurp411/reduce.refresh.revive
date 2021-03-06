@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/simple-healthy-lifestyle-tips/benefits-of-apple-cider-vinegar", {data:[{}],fetch:[],mutations:[]});

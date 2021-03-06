@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/simple-homemade-skin-care-recipes/face-tightening-mask-for-cleansing-pore-reducing-wrinkles", {data:[{}],fetch:[],mutations:[]});

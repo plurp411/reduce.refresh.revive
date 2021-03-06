@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/simple-homemade-skin-care-recipes/moisturizing-detox-bath-for-stress-sore-muscles-rough-skin", {data:[{}],fetch:[],mutations:[]});

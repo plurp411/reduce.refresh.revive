@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/simple-homemade-skin-care-recipes/hangover-mask-for-tired-puffy-faces-redness", {data:[{}],fetch:[],mutations:[]});

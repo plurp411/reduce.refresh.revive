@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/simple-homemade-skin-care-recipes/spicy-ginger-detox-bath-for-tense-muscles-cold-flu-symptoms", {data:[{}],fetch:[],mutations:[]});

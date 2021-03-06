@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/simple-homemade-skin-care-recipes/supple-strawberry-mask-for-smoothing-firming-skin", {data:[{}],fetch:[],mutations:[]});

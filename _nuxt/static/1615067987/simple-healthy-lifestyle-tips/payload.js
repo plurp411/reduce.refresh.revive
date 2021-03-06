@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/simple-healthy-lifestyle-tips", {data:[{}],fetch:[],mutations:[]});

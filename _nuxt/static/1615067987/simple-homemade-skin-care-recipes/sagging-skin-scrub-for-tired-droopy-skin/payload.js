@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/simple-homemade-skin-care-recipes/sagging-skin-scrub-for-tired-droopy-skin", {data:[{}],fetch:[],mutations:[]});

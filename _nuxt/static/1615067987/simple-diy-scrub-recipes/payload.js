@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/simple-diy-scrub-recipes", {data:[{}],fetch:[],mutations:[]});
